@@ -1,1 +1,1 @@
-A model which will predict if the Income of a person with particular sex,profession,educational level etc, will have an income above Rs50,000
+Projects on various Finance Sectors such as Eligibility for loan approval, Insurance fraud, Census Income prediction
