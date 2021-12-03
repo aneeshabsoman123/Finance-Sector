@@ -1,0 +1,1 @@
+A model which will predict if the Income of a person with particular sex,profession,educational level etc, will have an income above Rs50,000
