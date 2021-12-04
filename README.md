@@ -4,4 +4,4 @@ The projects are:
 1. Census Income detection 
 2. Insurance claim fraud detection
 3. Loan application acceptance model
-4. Micro Credit Loan Use case Project
+
