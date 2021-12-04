@@ -1,1 +1,1 @@
-Projects on various Finance Sectors such as Eligibility for loan approval, Insurance fraud, Census Income prediction
+A Model which will predict if the loan will get approved depending on the various factors given in the dataset.
