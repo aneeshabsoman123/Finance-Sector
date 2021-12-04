@@ -1,7 +1,7 @@
 The Repository contains various projects in the Finance sector. 
 It has both classification and regression problems. The data is visualised and understood, Cleaned and then Model to predict the future data with the best algorithm for the respective dataset.
 The projects are:
-	Census Income detection 
-	Insurance claim fraud detection
-	Loan application acceptance model
-	Micro Credit Loan Use case Project
+1. Census Income detection 
+2. Insurance claim fraud detection
+3. Loan application acceptance model
+4. Micro Credit Loan Use case Project
